@@ -14,14 +14,14 @@ A aplicação foi desenvolvida em **Python**, utilizando **Streamlit** como inte
 
 ## Estrutura do Projeto
 nola-god-level/
-├─ app.py              # Interface Streamlit
-├─ desafio.py          # Lógica do desafio
-├─ reports.py          # Funções de geração de relatórios
-├─ db.py               # Conexão e manipulação do banco de dados
-├─ generate_data.py    # Script para gerar dados de teste
-├─ analyze_data.py     # Funções de análise de dados
-├─ README.md           # Documentação
-└─ requirements.txt    # Dependências do projeto
+- app.py              # Interface Streamlit
+- desafio.py          # Lógica do desafio
+- reports.py          # Funções de geração de relatórios
+- db.py               # Conexão e manipulação do banco de dados
+- generate_data.py    # Script para gerar dados de teste
+- analyze_data.py     # Funções de análise de dados
+- README.md           # Documentação
+- requirements.txt    # Dependências do projeto
 
 ## Funcionalidades
 - Dashboard interativo para explorar dados de vendas, restaurantes e clientes.
